@@ -2,4 +2,4 @@ PUMBAA is a MATLAB-based graphical user interface created by Devante Kerr in the
 
 A complete user guide is available in the .zip file.
 
-PUMBAA v2.1 was updated on 8/5/2022.
+PUMBAA v2.2 was updated on 8/8/2022.
