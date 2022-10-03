@@ -2,4 +2,6 @@ PUMBAA is a MATLAB-based graphical user interface created by Devante Kerr in the
 
 A complete user guide is available in the .zip file.
 
+If using PUMBAA, please cite Tanas JK, Kerr DD, Wang L, Rai A, Wallaard I, Elgersma Y, and Sidorov MS. Multidimensional analysis of behavior predicts genotype with high accuracy in a mouse model of Angelman syndrome (2022). Translational Psychiatry 12: 426.
+
 PUMBAA v3.0 was updated on 8/26/2022.
